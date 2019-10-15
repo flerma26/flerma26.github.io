@@ -12,4 +12,11 @@ body {
 h2+h3{
   color:CadetBLue;
   }
+li:hover{
+  background-color:brown;
+  font-size:30px;
+  }
+li:active{
+  background-color:green;
+  }
 
