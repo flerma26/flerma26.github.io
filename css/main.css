@@ -1,6 +1,7 @@
 body {
   background-color:#008000;
-  text-align:center;
+  text-align:left;
+  font-size:7;
   }
 h1 {
   color:#FF0000;
@@ -18,9 +19,6 @@ border{
   border-style:double;
   border-width:10px;
   }
-.content{
-  text-align:left;
-  }
 #sleep:hover{
   background-color:black;
   color:yellow;
@@ -33,8 +31,9 @@ border{
   font-style:italic;
   font-size:20px;
   )
-#miami{
-  color:purple;
+img+p{
+  background-color:#ff7700;
+  color:indigo;
   }
   
 
