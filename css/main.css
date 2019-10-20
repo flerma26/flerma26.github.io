@@ -1,34 +1,8 @@
-body {
-  background-color:#008000;
-  font-size:7;
-  }
-h1 {
-  color:#FF0000;
+h1{
+  color:red;
   font-family:Times New Roman;
   }
-h2 {
-  color:#271cc7;
-  font-family:Arial;
-ul{
-  background-color:#877e00;
-  font-style:bold;
-  }
-#sleep:hover{
-  background-color:black;
-  color:yellow;
-  font-style:italic;
-  font-size:20px;
-  }
-#swim:hover{
-  background-color:blue;
-  color:white;
-  font-style:italic;
-  font-size:20px;
-  )
-img+p{
-  background-color:#ff7700;
-  color:indigo;
-  }
+  
   
 
   
