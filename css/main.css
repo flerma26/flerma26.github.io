@@ -10,6 +10,12 @@ ul{
   background-color:#877e00;
   font-style:italic;
   }
+border{
+  border-color:CadetBlue;
+  border-style:double;
+  border-width:10px;
+  }
+
 
   
 
