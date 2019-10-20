@@ -1,11 +1,16 @@
 body {
   background-color:#008000;
-  
+  text-align:left;
   }
 h1 {
   color:#FF0000;
   font-family:Arial;
   }
+ul{
+  background-color:#877e00;
+  font-style:italic;
+  }
+
   
 
 
