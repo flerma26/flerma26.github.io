@@ -13,11 +13,6 @@ ul{
   background-color:#877e00;
   font-style:bold;
   }
-border{
-  border-color:CadetBlue;
-  border-style:double;
-  border-width:10px;
-  }
 #sleep:hover{
   background-color:black;
   color:yellow;
