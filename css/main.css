@@ -1,6 +1,6 @@
 body {
   background-color:#008000;
-  text-align:left;
+  text-align:center;
   }
 h1 {
   color:#FF0000;
@@ -16,18 +16,21 @@ border{
   border-width:10px;
   }
 .content{
-  font-size:2;
+  text-align:left;
   }
 #sleep:hover{
   background-color:black;
   color:white;
   font-style:italic;
+  font-size:20px;
   }
 #swim:hover{
   background-color:blue;
   color:olive;
   font-style:italic;
+  font-size:20px;
   )
+
   
 
 
