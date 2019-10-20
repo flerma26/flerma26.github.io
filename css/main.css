@@ -4,8 +4,11 @@ body {
   }
 h1 {
   color:#FF0000;
-  font-family:Arial;
+  font-family:Times New Roman;
   }
+h2 {
+  color:#271cc7;
+  font-family:Arial;
 ul{
   background-color:#877e00;
   font-style:bold;
@@ -20,16 +23,20 @@ border{
   }
 #sleep:hover{
   background-color:black;
-  color:white;
+  color:yellow;
   font-style:italic;
   font-size:20px;
   }
 #swim:hover{
   background-color:blue;
-  color:olive;
+  color:white;
   font-style:italic;
   font-size:20px;
   )
+#miami{
+  color:purple;
+  }
+  
 
   
 
