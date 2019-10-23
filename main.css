@@ -1,1 +1,42 @@
-<c
+body{
+  bakcground-color:green;
+}
+h1{
+  background color:black;
+  color:red;
+  text-decoration:underline;
+}
+h2{
+  background-color:purple;
+  color:CadetBlue;
+  text-decoration:underline;
+}
+.bio{
+  backgound-color:#ffe600;
+  color:white;
+}
+.list{
+  border:6px #00008b;
+}
+#swim:hover::active{
+  background-color:orange;
+  font-style:italic;
+  content:"Favorite";
+}
+#sleep:hover::acitve{
+  bakcground-color:cyan;
+  font-style:italic;
+  content:"Favorite";
+}
+.activities{
+  background-color:#ffe600;
+  color:white;
+}
+.coding{
+  background-color:#ffe600;
+  color:white;
+}
+
+  
+  
+  
