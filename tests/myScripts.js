@@ -1,5 +1,10 @@
-document.write("Loop A <br/>");
-  var i;
-for(i = 0; i < 31; i++) {
-  document.write("My Loop:" + i + "<br/>");
+function myLoop(){
+var start = document.getElementById("start").value;   
+var end = document.getElementById("end").value;
+console.log(start); 
+for(var i = start; i <= end; i++)
+  {
+    document.write("<p>" + i + "</p>");
+  }
+
 }
